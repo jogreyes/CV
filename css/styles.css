@@ -1,0 +1,89 @@
+/*##########################TAG SELECTOR##########################*/
+body {
+  margin: 0;
+  text-align: center;
+  font-family: 'Merriweather', serif;
+}
+
+h1 {
+  color: #212121;
+  margin: 50px auto 0 auto;
+  font-size: 5.62rem;
+  font-family: 'Sacramento', cursive;
+  line-height: normal;
+}
+
+h2 {
+  color: #757575;
+  font-weight: normal;
+
+  font-size: 2rem;
+  font-family: 'Montserrat', sans-serif;
+}
+
+h3 {
+  font-family: 'Montserrat', sans-serif;
+}
+
+
+/*##########################CLASS SELECTOR##########################*/
+
+
+
+.TopContainer {
+  background-color: #f4eeff;
+  position: relative;
+  padding-top: 100px;
+}
+
+.profile {
+
+  margin-top: 0;
+
+}
+
+.pro {
+  text-decoration: underline;
+}
+
+.topCloud {
+  position: absolute;
+  right: 600px;
+  top: 50px;
+}
+
+.lowCloud {
+  position: absolute;
+  left: 600px;
+  bottom: 300px;
+}
+
+
+
+.skill-row{
+  margin: 100px auto 150px auto;
+  width: 50%;
+  text-align: left;
+  line-height: 2;
+}
+.image-code{
+  float: left;
+  width: 20%;
+  margin-right: 30px;
+}
+.image-3d{
+  float: right;
+  width: 20%;
+  margin-left: 30px;
+}
+.image-controller{
+  float: right;
+  width: 20%;
+  margin-left: 30px
+}
+.hobbies-row{
+  margin: 100px auto 150px auto;
+  width: 50%;
+  text-align: left;
+  line-height: 2;
+}
